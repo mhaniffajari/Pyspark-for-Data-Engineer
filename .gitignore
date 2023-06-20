@@ -1,0 +1,4 @@
+data/
+.csv
+arsenal_score.parquet/
+barcelona_score.parquet/
